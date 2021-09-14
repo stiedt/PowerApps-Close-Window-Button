@@ -1,6 +1,6 @@
 # PowerApps-Close-Window-Button
 PowerApps Canvas Application Close current tab button--
-Browse to https://make.powerapps.com/--
+Browse to https://make.powerapps.com --
 Select Solutions--
 Select Import--
 Select the Solutions.zip file--
