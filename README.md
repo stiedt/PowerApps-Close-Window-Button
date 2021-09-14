@@ -14,3 +14,5 @@ Choose Solution--
 Create Components--
 Select New Component--
 Insert Code Components--
+
+--YOU HAVE TO OPEN A WINDOW TO CLOSE ONE. COPY AND PASTING URL IS NOT WINDOW OPEN--
